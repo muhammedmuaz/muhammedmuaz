@@ -3,8 +3,8 @@
 ![Flutter Developer](https://img.shields.io/badge/Flutter-Expert-ff69b4)
 
 **Email:** maazzindani2003@gmail.com
-**GitHub:** [GitHub](https://github.com/yourusername)
-**LinkedIn:** [LinkedIn](https://linkedin.com/in/yourlinkedinprofile)
+**GitHub:** [GitHub](https://github.com/muhammedmuaz)
+**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/maazzindani/)
 
 ## About Me
 I am a passionate Flutter Mobile Dart Developer with a strong background in building high-quality mobile applications. My journey in the world of app development has led me through various challenging and rewarding experiences.
