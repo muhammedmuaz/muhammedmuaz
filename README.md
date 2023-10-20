@@ -16,26 +16,15 @@ I am a passionate Flutter Mobile Dart Developer with a strong background in buil
 
 ## Experience
 
-### Senior Flutter Developer at Hammi Systems
-*Karachi, Pakistan | Aug 2023 – Present*
-- 🚀 Leading and mentoring a team of Flutter developers.
-- 💻 Writing clean and efficient code for mobile applications.
-- 📋 Gathering specific requirements from stakeholders.
-- 🛠️ Troubleshooting, debugging, and optimizing app performance.
-- 🎨 UI/UX design to enhance user experience.
-- 👥 Collaborating with the Product Development team.
-- ⚙️ Implementing CI/CD practices for efficient deployment.
-- 📝 Efficiently documenting projects and code.
-
 ### Senior Mobile Application Developer at Finosys
-*Karachi, Pakistan | Apr 2023 – Aug 2023*
+* Apr 2023 – Aug 2023*
 - 📱 Updating and developing Dawlance Mobile Apps.
 - 💼 Leading the startup project, Qistbazaar.
 - 🚀 Specializing in Dart and state management tools.
 - 🧠 Passionate about innovation and user experience.
 
 ### Solo App Developer at World Wide Adverts
-*London, United Kingdom | Feb 2023 – Present*
+* London, United Kingdom | Feb 2023 – Present*
 - 📱 End-to-end mobile app development.
 - ✨ Seamless design, functionality, and performance.
 - 💪 Dedicated and versatile app developer.
@@ -49,7 +38,7 @@ I am a passionate Flutter Mobile Dart Developer with a strong background in buil
 - ⚙️ Implementing CI/CD practices.
 
 ### Mobile Application Developer at AI Global Solutions
-*Karachi, Pakistan | Jun 2021 – Oct 2022*
+* Jun 2021 – Oct 2022*
 - 💬 Collaborating with clients to understand app requirements.
 - 📱 Developing for iOS and Android platforms.
 - 💻 Writing clean and efficient code.
@@ -58,7 +47,7 @@ I am a passionate Flutter Mobile Dart Developer with a strong background in buil
 - 📖 Providing documentation and support.
 
 ### Freelance Mobile App Developer at Upwork
-*Karachi, Pakistan | May 2021 – Present*
+* May 2021 – Present*
 - 🤝 Collaborating with clients on specific requirements.
 - 📱 Designing and developing user-friendly apps.
 - 💻 Writing clean and efficient code.
@@ -80,22 +69,22 @@ I am a passionate Flutter Mobile Dart Developer with a strong background in buil
 - **Databases:** MySQL, SQL, Node.js, Firebase
 
 ## Projects / Open-Source
-1. **ShopGo** - [Link](#)
+1. **ShopGo** - [Link](https://play.google.com/store/apps/details?id=co.proglabs.shop_go&hl=en&gl=US)
    - An innovative project enabling cross-border shopping.
 
-2. **Ohana Africa** - [Link](#)
+2. **Ohana Africa** - [Link](https://play.google.com/store/apps/details?id=com.ohana.africa&hl=en&gl=US&pli=1)
    - An app for secure money pooling for groups.
 
-3. **SuperGrid for Likes on Post** - [Link](#)
+3. **SuperGrid for Likes on Post** - [Link](https://apps.apple.com/ca/app/supergrid-for-post/id1626840758)
    - A tool to split photos into square images.
 
-4. **Menulo** - [Link](#)
+4. **Menulo** - [Link](https://www.menulo.de/)
    - A digital menu system for gastronomy.
 
-5. **Spotless Laundry** - [Link](#)
+5. **Spotless Laundry** - [Link](https://play.google.com/store/apps/details?id=com.spotlessapp.production&hl=en&gl=US)
    - An app for efficient laundry management.
 
-6. **Pakistan Times Mobile App** - [Link](#)
+6. **Pakistan Times Mobile App** - [Link](https://play.google.com/store/apps/details?id=com.aiglobal.ptimes&hl=en&gl=US)
    - A news channel and more.
 
 Feel free to check out my GitHub repository for more of my projects and contributions.
