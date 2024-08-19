@@ -1,4 +1,4 @@
-# Muhammad Maaz
+# Maaz Zindani
 
 ![Flutter Developer](https://img.shields.io/badge/Flutter-Expert-ff69b4)
 
