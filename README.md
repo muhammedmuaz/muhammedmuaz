@@ -39,43 +39,6 @@ Let’s connect and create something amazing together!
 
 ---
 
-## **🚀 Projects**  
-
-### **Raheeb**  
-- **Customer App:**  
-  [![Play Store](https://img.shields.io/badge/Play_Store-414141?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=app.raheeb.customer)  [![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](https://apps.apple.com/gb/app/raheeb-app/id1645885068)  
-- **Driver App:**  
-  [![Play Store](https://img.shields.io/badge/Play_Store-414141?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.raheeb.driverapp)  [![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](https://apps.apple.com/gb/app/raheeb-driver/id1644921957)  
-
-### **Dawlance Air**  
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](https://apps.apple.com/pk/app/dawlance-air/id1384381512)  
-
-### **Loade-Driver**  
-[![Play Store](https://img.shields.io/badge/Play_Store-414141?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=app.loade.driver&hl=en&gl=US)  
-
-### **Qist Bazaar**  
-[![Play Store](https://img.shields.io/badge/Play_Store-414141?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.tech.qistbazar)  
-
-### **FM91 Pakistan**  
-[![Play Store](https://img.shields.io/badge/Play_Store-414141?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.aiglobal.fm91pakistan)  
-
-### **ShopGo**  
-[![Play Store](https://img.shields.io/badge/Play_Store-414141?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=co.proglabs.shop_go&hl=en&gl=US)  
-
-### **Ohana Africa**  
-[![Play Store](https://img.shields.io/badge/Play_Store-414141?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.ohana.africa&hl=en&gl=US&pli=1)  
-
-### **Menulo**  
-[![Website](https://img.shields.io/badge/Website-4285F4?logo=google-chrome&logoColor=white)](https://www.menulo.de/)  
-
-### **Spotless Laundry**  
-[![Play Store](https://img.shields.io/badge/Play_Store-414141?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.spotlessapp.production&hl=en&gl=US)  
-
-### **TaskVare**  
-[![Website](https://img.shields.io/badge/Website-4285F4?logo=google-chrome&logoColor=white)](https://taskvare.com)
-
----
-
 ## **📊 GitHub Stats**  
 
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=muhammedmuaz&show_icons=true&theme=radical)  
