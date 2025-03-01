@@ -1,13 +1,13 @@
-# **Maaz Zindani**  
-![Meta Certified Android Developer](https://img.shields.io/badge/Meta-Certified_Android_Developer-blue)  
-![Flutter Developer](https://img.shields.io/badge/Flutter-Expert-02569B)  
-![AWS Certified](https://img.shields.io/badge/AWS-Certified-FF9900)  
-![Mobile App Team Lead](https://img.shields.io/badge/Team_Lead-Experienced-success)  
-![DevOps Engineer](https://img.shields.io/badge/DevOps-Expert-critical)  
+# **👋 Hi, I’m Maaz Zindani**  
+**Meta Certified Android Developer** | **Flutter Expert** | **Mobile App Team Lead**  
+
+I’m passionate about building **scalable, user-friendly mobile apps** for Android and iOS using **Flutter, Kotlin, and Swift**. I also love exploring **DevOps tools** like **Docker, Kubernetes, and CI/CD pipelines** to streamline development workflows.  
+
+Let’s connect and create something amazing together!  
 
 ---
 
-## **📬 Contact Me**  
+## **📧 Contact Me**  
 [![Email](https://img.shields.io/badge/Email-maazzindani2003@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:maazzindani2003@gmail.com)  
 [![Phone](https://img.shields.io/badge/Phone-+92%20(333)%200210802-25D366?logo=whatsapp&logoColor=white)](tel:+923330210802)  
 [![Location](https://img.shields.io/badge/Location-Karachi,%20Pakistan-4285F4?logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Karachi)  
@@ -87,13 +87,13 @@ Let’s connect and create something amazing together!
 ---
 
 ## **📜 Certifications**  
-- **Meta Certified Android Developer**  
-- **Google AI Essentials**  
-- **AWS Cloud Technical Essentials**  
-- **Google Project Management**  
-- **Software Product Management (University of Alberta)**  
-- **Exploratory Data Analysis for Machine Learning (IBM)**  
-- **Programming Fundamentals in Kotlin (Meta)**  
+- ![Meta](https://img.shields.io/badge/Meta-Certified_Android_Developer-blue) **Meta Certified Android Developer**  
+- ![Google](https://img.shields.io/badge/Google-AI_Essentials-4285F4) **Google AI Essentials**  
+- ![AWS](https://img.shields.io/badge/AWS-Cloud_Technical_Essentials-FF9900) **AWS Cloud Technical Essentials**  
+- ![Google](https://img.shields.io/badge/Google-Project_Management-34A853) **Google Project Management**  
+- ![University of Alberta](https://img.shields.io/badge/University_of_Alberta-Software_Product_Management-0077B5) **Software Product Management**  
+- ![IBM](https://img.shields.io/badge/IBM-Exploratory_Data_Analysis-052FAD) **Exploratory Data Analysis for Machine Learning**  
+- ![Meta](https://img.shields.io/badge/Meta-Kotlin_Fundamentals-blue) **Programming Fundamentals in Kotlin**  
 
 ---
 
