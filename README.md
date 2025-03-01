@@ -6,7 +6,7 @@
 ![DevOps Engineer](https://img.shields.io/badge/DevOps-Expert-critical)  
 
 **📧 Email:** [maazzindani2003@gmail.com](mailto:maazzindani2003@gmail.com)  
-**📞 Phone:** +923330210802  
+**📞 Phone:** +92 (333)-0210802  
 **🌍 Location:** Karachi, Pakistan  
 **🔗 GitHub:** [muhammedmuaz](https://github.com/muhammedmuaz)  
 **🔗 LinkedIn:** [Maaz Zindani](https://www.linkedin.com/in/maazzindani/)  
@@ -14,54 +14,16 @@
 ---
 
 ## **👨‍💻 About Me**  
-I am a **Meta Certified Android Developer**, **Flutter Developer**, and **DevOps Engineer** with extensive experience in mobile app development, team leadership, and software product management. I specialize in building high-quality, scalable, and user-friendly mobile applications for Android and iOS platforms. My expertise spans across **Flutter, Kotlin, Swift, AWS, DevOps tools, and Agile methodologies**. I am passionate about leveraging technology to solve real-world problems and deliver innovative solutions.  
+I am a **Meta Certified Android Developer**, **Flutter Developer**, and **DevOps Engineer** with extensive experience in mobile app development, team leadership, and software product management. I specialize in building high-quality, scalable, and user-friendly mobile applications for Android and iOS platforms. My expertise spans across **Flutter, Kotlin, Swift, AWS, DevOps tools, and Agile methodologies**. I am passionate about leveraging technology to solve real-world problems and deliver innovative solutions. 
+
+Let’s connect and create something amazing together!  
 
 ---
 
-## **🎓 Education**  
-- **Bachelor of Science in Artificial Intelligence**  
-  *SZABIST, Karachi, Pakistan*  
-  *July 2021 - 2025*  
+## **☕ Buy Me a Coffee**  
+If you find my work helpful or just want to support me, you can buy me a coffee!  
 
----
-
-## **💼 Professional Experience**  
-
-### **Production Team Lead**  
-**Whimstech** | *July 2020 - Present*  
-- Led mobile app development teams to deliver high-quality applications.  
-- Spearheaded innovative solutions to meet user needs and industry standards.  
-- Ensured seamless project execution and timely delivery.  
-
-### **Lead Mobile App Developer (Android & iOS)**  
-**Transviti** | *November 2024 - December 2023*  
-- Developed an advanced social media app, leading a team of developers.  
-- Implemented cutting-edge features and ensured optimal performance.  
-
-### **Senior Mobile App Developer**  
-**Hammi Systems** | *August 2023 - December 2023*  
-- Led a team of developers to enhance and maintain mobile applications.  
-- Played a pivotal role in app architecture and feature implementation.  
-
-### **Mobile Application Developer**  
-**Finosys** | *April 2023 - October 2024*  
-- Updated and developed **Dawlance Mobile Apps**.  
-- Led the successful startup project **Qistbazaar**.  
-
-### **Solo App Developer (Full-Stack)**  
-**Worldwide Adverts Ltd** | *February 2023 - July 2024*  
-- Handled end-to-end mobile app development, from concept to deployment.  
-- Delivered seamless design, functionality, and performance.  
-
-### **Flutter Mobile App Developer**  
-**Techigator** | *October 2022 - April 2023*  
-- Supported the entire app lifecycle, from concept to release and maintenance.  
-- Wrote clean, efficient code and optimized app performance.  
-
-### **Mobile Application Developer**  
-**AI Global Solutions** | *June 2021 - October 2022*  
-- Collaborated with clients to develop and publish mobile apps.  
-- Ensured apps met client requirements and industry standards.  
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/maazzindani)  
 
 ---
 
@@ -106,35 +68,49 @@ I am a **Meta Certified Android Developer**, **Flutter Developer**, and **DevOps
 ## **🚀 Projects**  
 
 ### **Raheeb**  
-- **Customer App:** [PlayStore](https://play.google.com/store/apps/details?id=app.raheeb.customer) | [AppStore](https://apps.apple.com/gb/app/raheeb-app/id1645885068)  
-- **Driver App:** [PlayStore](https://play.google.com/store/apps/details?id=com.raheeb.driverapp) | [AppStore](https://apps.apple.com/gb/app/raheeb-driver/id1644921957)  
+- **Customer App:**  
+  [![Play Store](https://img.shields.io/badge/Play_Store-414141?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=app.raheeb.customer)  
+  [![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](https://apps.apple.com/gb/app/raheeb-app/id1645885068)  
+- **Driver App:**  
+  [![Play Store](https://img.shields.io/badge/Play_Store-414141?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.raheeb.driverapp)  
+  [![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](https://apps.apple.com/gb/app/raheeb-driver/id1644921957)  
 
 ### **Dawlance Air**  
-- [AppStore](https://apps.apple.com/pk/app/dawlance-air/id1384381512)  
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](https://apps.apple.com/pk/app/dawlance-air/id1384381512)  
 
 ### **Loade-Driver**  
-- [PlayStore](https://play.google.com/store/apps/details?id=app.loade.driver&hl=en&gl=US)  
+[![Play Store](https://img.shields.io/badge/Play_Store-414141?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=app.loade.driver&hl=en&gl=US)  
 
 ### **Qist Bazaar**  
-- [PlayStore](https://play.google.com/store/apps/details?id=com.tech.qistbazar)  
+[![Play Store](https://img.shields.io/badge/Play_Store-414141?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.tech.qistbazar)  
 
 ### **FM91 Pakistan**  
-- [PlayStore](https://play.google.com/store/apps/details?id=com.aiglobal.fm91pakistan)  
+[![Play Store](https://img.shields.io/badge/Play_Store-414141?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.aiglobal.fm91pakistan)  
 
 ### **ShopGo**  
-- [PlayStore](https://play.google.com/store/apps/details?id=co.proglabs.shop_go&hl=en&gl=US)  
+[![Play Store](https://img.shields.io/badge/Play_Store-414141?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=co.proglabs.shop_go&hl=en&gl=US)  
 
 ### **Ohana Africa**  
-- [PlayStore](https://play.google.com/store/apps/details?id=com.ohana.africa&hl=en&gl=US&pli=1)  
+[![Play Store](https://img.shields.io/badge/Play_Store-414141?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.ohana.africa&hl=en&gl=US&pli=1)  
 
 ### **Menulo**  
-- [Website](https://www.menulo.de/)  
+[![Website](https://img.shields.io/badge/Website-4285F4?logo=google-chrome&logoColor=white)](https://www.menulo.de/)  
 
 ### **Spotless Laundry**  
-- [PlayStore](https://play.google.com/store/apps/details?id=com.spotlessapp.production&hl=en&gl=US)  
+[![Play Store](https://img.shields.io/badge/Play_Store-414141?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.spotlessapp.production&hl=en&gl=US)  
 
 ### **TaskVare**  
-- [Website](https://taskvare.com)  
+[![Website](https://img.shields.io/badge/Website-4285F4?logo=google-chrome&logoColor=white)](https://taskvare.com)
+
+---
+
+## **📊 GitHub Stats**  
+
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=muhammedmuaz&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedmuaz&layout=compact&theme=radical)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammedmuaz&theme=radical)  
 
 ---
 
