@@ -1,12 +1,9 @@
-Here’s a modern, visually appealing, and professional GitHub README tailored to your resume, LinkedIn, and certifications. It includes your experience, projects, skills, and certifications in a clean and organized format:
-
----
-
 # **Maaz Zindani**  
 ![Meta Certified Android Developer](https://img.shields.io/badge/Meta-Certified_Android_Developer-blue)  
 ![Flutter Developer](https://img.shields.io/badge/Flutter-Expert-02569B)  
 ![AWS Certified](https://img.shields.io/badge/AWS-Certified-FF9900)  
 ![Mobile App Team Lead](https://img.shields.io/badge/Team_Lead-Experienced-success)  
+![DevOps Engineer](https://img.shields.io/badge/DevOps-Expert-critical)  
 
 **📧 Email:** [maazzindani2003@gmail.com](mailto:maazzindani2003@gmail.com)  
 **📞 Phone:** +923330210802  
@@ -17,7 +14,7 @@ Here’s a modern, visually appealing, and professional GitHub README tailored t
 ---
 
 ## **👨‍💻 About Me**  
-I am a **Meta Certified Android Developer** and **Flutter Developer** with extensive experience in mobile app development, team leadership, and software product management. I specialize in building high-quality, scalable, and user-friendly mobile applications for Android and iOS platforms. My expertise spans across **Flutter, Kotlin, Swift, AWS, and Agile methodologies**. I am passionate about leveraging technology to solve real-world problems and deliver innovative solutions.  
+I am a **Meta Certified Android Developer**, **Flutter Developer**, and **DevOps Engineer** with extensive experience in mobile app development, team leadership, and software product management. I specialize in building high-quality, scalable, and user-friendly mobile applications for Android and iOS platforms. My expertise spans across **Flutter, Kotlin, Swift, AWS, DevOps tools, and Agile methodologies**. I am passionate about leveraging technology to solve real-world problems and deliver innovative solutions.  
 
 ---
 
@@ -71,24 +68,38 @@ I am a **Meta Certified Android Developer** and **Flutter Developer** with exten
 ## **🛠️ Skills**  
 
 ### **Programming Languages**  
-Dart, Python, PHP, Kotlin, Swift, JavaScript, C, C++, Java  
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)  
+![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)  
 
 ### **Frameworks & Libraries**  
-Flutter, React Native, Node.js, Laravel, Django  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)  
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)  
 
-### **Tools & Platforms**  
-Git, Jenkins, Docker, Xcode, Android Studio, Firebase, AWS, Azure  
+### **DevOps Tools**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)  
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)  
+![Puppet](https://img.shields.io/badge/Puppet-FFAE1A?logo=puppet&logoColor=black)  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)  
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)  
+![CI/CD](https://img.shields.io/badge/CI/CD-FF6F00?logo=circleci&logoColor=white)  
 
 ### **Databases**  
-MySQL, Firebase, SQLite, MongoDB, Cloud Firestore  
-
-### **Certifications**  
-- **Meta Certified Android Developer**  
-- **Google AI Essentials**  
-- **AWS Fundamentals**  
-- **Google Project Management**  
-- **Exploratory Data Analysis for Machine Learning (IBM)**  
-- **Software Product Management (University of Alberta)**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)  
+![Cloud Firestore](https://img.shields.io/badge/Cloud_Firestore-FF6F00?logo=firebase&logoColor=white)  
 
 ---
 
@@ -128,6 +139,7 @@ MySQL, Firebase, SQLite, MongoDB, Cloud Firestore
 ---
 
 ## **📜 Certifications**  
+- **Meta Certified Android Developer**  
 - **Google AI Essentials**  
 - **AWS Cloud Technical Essentials**  
 - **Google Project Management**  
